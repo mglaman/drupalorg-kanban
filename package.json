@@ -1,5 +1,6 @@
 {
   "name": "drupalorg-kanban",
+  "title": "Drupal.org Kanban",
   "version": "1.0.0",
   "homepage": "https://github.com/mglaman/drupalorg-kanban",
   "description": "An extension for Drupal.org to embed ContribKanban.com",

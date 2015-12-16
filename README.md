@@ -1,6 +1,11 @@
 Drupal.org Kanban
  ------------------
 
-This is a project to provide integration of ContribKanban.com with Drupal.org.
+This is a project to provide integration of [ContribKanban.com][contribkanban] with Drupal.org.
 
-Credit to project structure and build process goes to those behind the Dreditor project.
+![Project page](media/project-kanban-embedded.png)
+
+Credit to project structure and build process goes to those behind the [Dreditor][dreditor] project.
+
+[contribkanban]: https://contribkanban.com
+[dreditor]: https://dreditor.org/
